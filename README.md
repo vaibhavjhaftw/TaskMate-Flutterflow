@@ -1,6 +1,9 @@
 
 # Taskmate.io 📝
 
+![Taskmate](https://github.com/user-attachments/assets/e9d578fb-e5d1-44b0-b40b-582b0e74043f)
+
+
 **Taskmate.io** is a task management app built with **FlutterFlow** and powered by **Firebase** for seamless task management, user authentication, and profile setup. Taskmate.io is designed to help users manage their daily tasks effortlessly while offering a clean, intuitive interface for easy navigation. The app features include dynamic navigation between pending and completed tasks, as well as a user profile setup with calendar integration.
 
 ---
